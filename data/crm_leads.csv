@@ -1,0 +1,521 @@
+lead_id,full_name,email,company_name,website_domain,source,created_at,status
+LEAD-10000,Sofia Brown,sofiab@brightpathhealth.com,BrightPath Health,brightpathhealth.com,Referral,2026-03-03 21:17:04,Customer
+LEAD-10001,James Brown,,Cobalt Retail Partners Inc,cobaltretailpartners.com,Website,2026-02-09 06:45:29,New
+LEAD-10002,Evelyn White,evelynw@skylinehealth.com,Skyline Health,skylinehealth.com,Outbound,2025-09-12 09:29:58,New
+LEAD-10003,Logan Brown,lbrown@oaklineinsights.com,Oakline Insights Co,oaklineinsights.com,Website,2026-01-29 23:58:45,Qualified
+LEAD-10004,Sofia Scott,,Riverbend Commerce,riverbendcommerce.com,Conference,2026-01-11 01:49:27,Demo
+LEAD-10005,Avery Smith,AVERY_SMITH@APEXPARTNERS.COM,Apex Partners Corp,apexpartners.com,Outbound,2025-08-22 19:51:45,Customer
+LEAD-10006,Logan Martin,logan_martin@falconridgemedia.com,Falcon Ridge Media Co,falconridgemedia.com,Referral,2025-06-09 08:38:30,Customer
+LEAD-10007,James Brown,james.brown@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Referral,2026-01-24 04:07:11,Qualified
+LEAD-10008,Harper Clark,hclark@oaklineinsights.com,oakline insights,oaklineinsights.com,Website,2025-08-20 20:22:35,Lost
+LEAD-10009,David Adams,DAVID_ADAMS@SUMMERSETAIWORKS.COM,Summerset AI Works,summersetaiworks.com,Conference,2025-12-27 04:53:22,Qualified
+LEAD-10010,Harper Anderson,handerson@northpeaknetworks.com,NorthPeak Networks,northpeaknetworks.com,Referral,2025-12-25 08:44:20,Lost
+LEAD-10011,Logan Anderson,landerson@marinerdatahouse.com,Mariner Data House Group,marinerdatahouse.com,Website,2025-05-24 06:37:47,Qualified
+LEAD-10012,Liam Green,LIAM_GREEN@RIVERBENDCOMMERCE.COM,Riverbend Commerce,riverbendcommerce.com,Outbound,2025-08-16 05:51:45,Demo
+LEAD-10013,Aria Brown,aria_brown@pioneerhealthgroup.com,pioneer health group co,pioneerhealthgroup.com,Conference,2025-06-02 23:17:02,Qualified
+LEAD-10014,Ethan Martin,emartin@riverbendcommerce.com,riverbend commerce,riverbendcommerce.com,Conference,2026-01-27 18:58:55,Qualified
+LEAD-10015,Ethan Moore,ethan_moore@cobaltretailpartners.com,Cobalt Retail Partners Corp,cobaltretailpartners.com,Outbound,2025-12-10 18:51:23,Lost
+LEAD-10016,Samuel White,samuelw@oaklineinsights.com,Oakline Insights,oaklineinsights.com,Conference,2025-10-14 15:11:06,Qualified
+LEAD-10017,Logan Scott,logan.scott@oaklineinsights.com,Oakline Insights,oaklineinsights.com,Website,2025-05-07 20:16:57,New
+LEAD-10018,James Adams,jadams@everstonecloud.com,Everstone Cloud Group,everstonecloud.com,Webinar,2025-11-27 08:24:44,Customer
+LEAD-10019,Charlotte Allen,charlotte.allen@altitudegrowthlabs.com,Altitude Growth Labs,altitudegrowthlabs.com,Conference,2025-12-03 01:31:15,Contacted
+LEAD-10020,Daniel Nelson,daniel_nelson@summitlabs.com,Summit Labs Inc,summitlabs.com,Conference,2026-02-17 16:50:36,New
+LEAD-10021,Samuel Nelson,snelson@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Webinar,2026-02-16 13:02:39,New
+LEAD-10022,Chloe Scott,chloes@deltaharborsystems.com,Delta Harbor Systems,deltaharborsystems.com,Webinar,2025-08-06 22:23:13,Contacted
+LEAD-10023,Isabella Taylor,isabella_taylor@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,LinkedIn,2026-02-06 23:16:39,Contacted
+LEAD-10024,Samuel Moore,samuelm@northpeakanalytics.com,NorthPeak Analytics,northpeakanalytics.com,Outbound,2025-08-29 00:08:15,Contacted
+LEAD-10025,Samuel Taylor,staylor@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Website,2026-01-01 01:26:34,New
+LEAD-10026,Daniel King,dking@falconridgemedia.com,Falcon Ridge Media,falconridgemedia.com,LinkedIn,2026-03-29 05:25:00,Lost
+LEAD-10027,Liam Johnson,liamj@cloudforgelabs.com, CloudForge Labs ,cloudforgelabs.com,LinkedIn,2025-06-24 20:08:03,New
+LEAD-10028,Aria Green,ariag@everstoneanalytics.com,Everstone Analytics Corp,everstoneanalytics.com,Referral,2025-10-25 03:46:22,New
+LEAD-10029,Ethan Martin,ethanm@greenfieldsolutions.com, Greenfield Solutions Co ,greenfieldsolutions.com,Conference,2026-04-16 05:32:58,Contacted
+LEAD-10030,Charlotte Adams,cadams@summitsolutions.com,Summit Solutions Group,summitsolutions.com,Referral,2026-02-12 14:37:27,Lost
+LEAD-10031,Mason Baker,,Oakline Insights,oaklineinsights.com,LinkedIn,2026-03-20 13:57:53,Qualified
+LEAD-10032,Avery Taylor,avery.taylor@atlasrevenuelabs.com,Atlas Revenue Labs LLC,atlasrevenuelabs.com,Webinar,2025-05-01 04:29:36,Demo
+LEAD-10033,David Jackson,,ATLAS REVENUE LABS,atlasrevenuelabs.com,Website,2025-08-12 05:27:26,Contacted
+LEAD-10034,Camila Thomas,camila_thomas@goldenstatemetrics.com,Golden State Metrics,goldenstatemetrics.com,Referral,2026-01-01 12:57:26,Lost
+LEAD-10035,Sofia Taylor,staylor@northpeakanalytics.com,NorthPeak Analytics,northpeakanalytics.com,Outbound,2025-09-04 04:01:14,Customer
+LEAD-10036,Lucas Jackson,lucas_jackson@velocitydigital.com, Velocity Digital ,velocitydigital.com,Website,2025-07-26 18:39:56,Customer
+LEAD-10037,Liam Lewis,liam.lewis@summitlogic.com,Summit Logic Group,summitlogic.com,Referral,2026-01-04 03:12:13,Contacted
+LEAD-10038,Daniel Walker,dwalker@greenfieldpartners.com,Greenfield Partners,greenfieldpartners.com,Outbound,2025-09-28 06:49:45,Qualified
+LEAD-10039,Lucas White,lwhite@brightpathtechnologies.com,BrightPath Technologies,brightpathtechnologies.com,Referral,2025-07-30 18:18:35,Customer
+LEAD-10040,Benjamin Harris,benjamin.harris@cobaltretailpartners.com,Cobalt Retail Partners Corp,cobaltretailpartners.com,Webinar,2026-01-08 11:57:01,Customer
+LEAD-10041,Benjamin Allen,benjamin.allen@northpeaknetworks.com,NorthPeak Networks,northpeaknetworks.com,Outbound,2026-04-13 03:10:29,Contacted
+LEAD-10042,Mason King,masonk@everstonesoftware.com,Everstone Software,everstonesoftware.com,Referral,2025-09-13 16:47:54,Qualified
+LEAD-10043,Ethan Walker,ethanw@velocitysolutions.com,Velocity Solutions,velocitysolutions.com,Conference,2026-01-01 22:57:59,Customer
+LEAD-10044,Alexander Jackson,alexander_jackson@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Website,2025-11-12 05:05:38,Lost
+LEAD-10045,Liam Brown,liam.brown@goldenstatemetrics.com,Golden State Metrics LLC,goldenstatemetrics.com,Conference,2026-04-12 05:02:17,New
+LEAD-10046,Samuel Baker,,Falcon Ridge Media,falconridgemedia.com,Referral,2025-06-03 07:02:36,Qualified
+LEAD-10047,Sophia Young,sophiay@everstonetechnologies.com,Everstone Technologies,everstonetechnologies.com,Website,2026-01-01 14:50:11,Demo
+LEAD-10048,Liam Brown,LIAM.BROWN@CLEARBRIDGESYSTEMS.COM,ClearBridge Systems,clearbridgesystems.com,Website,2025-07-20 23:09:25,Customer
+LEAD-10049,Benjamin Adams,benjamin.adams@cobaltretailpartners.com, COBALT RETAIL PARTNERS ,cobaltretailpartners.com,Referral,2026-02-08 21:05:52,Contacted
+LEAD-10050,David Brown,david_brown@everstonesystems.com,EVERSTONE SYSTEMS,everstonesystems.com,LinkedIn,2025-05-13 14:03:54,Contacted
+LEAD-10051,Sophia Walker,sophia_walker@redwoodworks.com,Redwood Works,redwoodworks.com,Referral,2026-01-11 16:47:35,Contacted
+LEAD-10052,Michael Brown,michael.brown@riverbendcommerce.com,riverbend commerce,riverbendcommerce.com,LinkedIn,2025-10-12 10:49:00,Customer
+LEAD-10053,Ella Jackson,ELLA_JACKSON@VELOCITYPARTNERS.COM,VELOCITY PARTNERS,velocitypartners.com,Website,2026-01-29 05:36:44,Contacted
+LEAD-10054,Mason Wright,mwright@goldenstatemetrics.com,GOLDEN STATE METRICS LLC,goldenstatemetrics.com,Referral,2026-01-27 16:50:52,Qualified
+LEAD-10055,Henry Scott,,Cobalt Retail Partners,cobaltretailpartners.com,Webinar,2025-12-09 13:43:17,New
+LEAD-10056,James White,james_white@northpeaksoftware.com,NorthPeak Software,northpeaksoftware.com,Outbound,2025-09-11 11:46:10,Contacted
+LEAD-10057,Elijah Wright,elijah.wright@summitlogic.com,Summit Logic,summitlogic.com,Outbound,2026-01-09 02:11:03,New
+LEAD-10058,Henry Anderson,handerson@deltaharborsystems.com,Delta Harbor Systems Group,deltaharborsystems.com,Conference,2025-05-07 00:15:15,Contacted
+LEAD-10059,Ella Adams,ella.adams@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,LinkedIn,2026-02-25 22:59:22,Demo
+LEAD-10060,Luna Taylor,ltaylor@ironwoodcloud.com,IRONWOOD CLOUD,ironwoodcloud.com,Outbound,2026-04-15 05:42:10,Contacted
+LEAD-10061,Mia Taylor,miat@atlasrevenuelabs.com, Atlas Revenue Labs ,atlasrevenuelabs.com,Website,2026-03-03 09:03:29,New
+LEAD-10062,Elijah Johnson,ejohnson@goldenstatemetrics.com,Golden State Metrics,goldenstatemetrics.com,Webinar,2025-07-03 08:47:35,New
+LEAD-10063,Harper Green,hgreen@beacontraillogistics.com,BEACON TRAIL LOGISTICS LLC,beacontraillogistics.com,Conference,2025-07-04 08:10:12,New
+LEAD-10064,Ella Harris,ellah@blueriverops.com,BlueRiver Ops,blueriverops.com,LinkedIn,2026-04-14 12:19:13,Contacted
+LEAD-10065,Mia Baker,miab@everstoneworks.com,Everstone Works,everstoneworks.com,Webinar,2026-04-19 04:17:00,Customer
+LEAD-10066,Harper King,harper_king@everstonesoftware.com,Everstone Software,everstonesoftware.com,Outbound,2026-01-13 15:24:48,New
+LEAD-10067,Henry Walker,henry.walker@cobaltretailpartners.com,Cobalt Retail Partners Inc,cobaltretailpartners.com,Outbound,2025-11-22 05:23:50,Qualified
+LEAD-10068,Elijah Wright,elijah.wright@skylinehealth.com,Skyline Health Corp,skylinehealth.com,Outbound,2025-08-02 19:11:36,Qualified
+LEAD-10069,Sofia Brown,sofiab@everstoneworks.com,Everstone Works,everstoneworks.com,Conference,2025-08-09 21:28:49,Customer
+LEAD-10070,Amelia Harris,ameliah@riverbendcommerce.com, Riverbend Commerce ,riverbendcommerce.com,LinkedIn,2026-03-25 11:02:50,Contacted
+LEAD-10071,James Adams,jamesa@deltaharborsystems.com,Delta Harbor Systems,deltaharborsystems.com,Webinar,2026-02-25 07:46:26,New
+LEAD-10072,Mia Lewis,mial@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,Webinar,2025-09-08 20:27:21,Demo
+LEAD-10073,Olivia King,oliviak@velocitysystems.com,Velocity Sys,velocitysystems.com,Website,2025-12-21 21:59:39,Customer
+LEAD-10074,Aria Johnson,aria_johnson@skylinedynamics.com,Skyline Dynamics Co,skylinedynamics.com,LinkedIn,2026-01-05 19:14:56,New
+LEAD-10075,Amelia Smith,amelia_smith@skylinesystems.com,Skyline Sys Corp,skylinesystems.com,LinkedIn,2026-03-06 01:35:10,Customer
+LEAD-10076,Elijah Walker,elijah_walker@cobaltretailpartners.com, Cobalt Retail Partners Co ,cobaltretailpartners.com,Webinar,2025-06-17 05:03:54,New
+LEAD-10077,Olivia Young,olivia_young@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Referral,2026-02-08 22:52:47,Demo
+LEAD-10078,Elijah Wright,elijahw@altitudegrowthlabs.com,Altitude Growth Labs,altitudegrowthlabs.com,Website,2026-03-18 00:30:18,Lost
+LEAD-10079,Charlotte Moore,CHARLOTTE_MOORE@SUMMERSETAIWORKS.COM,Summerset AI Works,summersetaiworks.com,Conference,2026-04-02 21:05:27,Contacted
+LEAD-10080,Ava Clark,ava_clark@pioneerhealthgroup.com,PIONEER HEALTH GROUP,pioneerhealthgroup.com,Website,2026-04-16 00:38:25,Qualified
+LEAD-10081,Emma Lewis,emma_lewis@goldenstatemetrics.com, GOLDEN STATE METRICS ,goldenstatemetrics.com,Referral,2025-11-17 01:05:48,Customer
+LEAD-10082,Ethan Lewis,ethan.lewis@goldenstatemetrics.com,golden state metrics,goldenstatemetrics.com,Website,2025-08-20 20:22:13,Demo
+LEAD-10083,Harper Taylor,harpert@cedarpointsoftware.com, CedarPoint Software ,cedarpointsoftware.com,Website,2025-08-30 20:06:25,Customer
+LEAD-10084,Luna Jackson,luna.jackson@riverbendcommerce.com, Riverbend Commerce Group ,riverbendcommerce.com,Website,2025-07-20 10:27:41,Customer
+LEAD-10085,Ava Smith,ava_smith@falconridgemedia.com,Falcon Ridge Media Inc,falconridgemedia.com,Outbound,2026-04-13 09:57:47,Contacted
+LEAD-10086,Ethan Jackson,ethan.jackson@marinerdatahouse.com, Mariner Data House ,marinerdatahouse.com,LinkedIn,2025-05-26 06:44:58,Contacted
+LEAD-10087,Aria Johnson,ajohnson@vertextechnologies.com,Vertex Technologies,vertextechnologies.com,Website,2026-04-19 20:09:10,Demo
+LEAD-10088,Camila Johnson,CAMILA.JOHNSON@CEDARPOINTCLOUD.COM,CedarPoint Cloud,cedarpointcloud.com,Outbound,2025-05-15 23:50:26,Demo
+LEAD-10089,Lucas Adams,lucas_adams@redwoodanalytics.com, Redwood Analytics ,redwoodanalytics.com,Conference,2025-05-16 22:05:47,Lost
+LEAD-10090,Luna Baker,lunab@deltaharborsystems.com,Delta Harbor Systems,deltaharborsystems.com,Conference,2025-06-04 01:16:42,Contacted
+LEAD-10091,Lucas Taylor,lucast@northpeaklogic.com, NorthPeak Logic ,northpeaklogic.com,Webinar,2025-12-13 00:45:53,Customer
+LEAD-10092,Liam Moore,lmoore@altitudegrowthlabs.com,Altitude Growth Labs Co,altitudegrowthlabs.com,Webinar,2025-11-22 09:04:35,New
+LEAD-10093,Mason Taylor,mason.taylor@pioneerhealthgroup.com,Pioneer Health Group Corp,pioneerhealthgroup.com,Website,2025-05-01 04:46:13,New
+LEAD-10094,Olivia Moore,olivia.moore@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Outbound,2025-11-01 09:48:40,Customer
+LEAD-10095,Noah Lewis,nlewis@pioneerhealthgroup.com,Pioneer Health Group Group,pioneerhealthgroup.com,Website,2025-05-26 19:12:07,Contacted
+LEAD-10096,Logan Lewis,llewis@silverlineworks.com,SilverLine Works,silverlineworks.com,Conference,2025-11-03 20:13:21,Demo
+LEAD-10097,Ethan Lewis,,CloudForge Solutions,cloudforgesolutions.com,Webinar,2025-07-25 09:17:06,Customer
+LEAD-10098,Logan King,lking@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Webinar,2026-01-18 15:55:44,New
+LEAD-10099,Sofia Wright,swright@greenfieldhealth.com,Greenfield Health,greenfieldhealth.com,Referral,2025-12-12 09:28:54,Contacted
+LEAD-10100,Daniel Johnson,djohnson@falconridgemedia.com, falcon ridge media co ,falconridgemedia.com,Conference,2026-03-22 23:35:56,Contacted
+LEAD-10101,Ella Brown,ellab@clearbridgesoftware.com,ClearBridge Software,clearbridgesoftware.com,Conference,2026-01-17 02:01:46,Customer
+LEAD-10102,Sofia Martin,sofiam@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Conference,2025-08-24 07:34:28,Contacted
+LEAD-10103,Daniel Green,daniel.green@cobaltretailpartners.com,Cobalt Retail Partners Inc,cobaltretailpartners.com,Referral,2025-07-28 15:28:02,New
+LEAD-10104,Olivia Clark,olivia_clark@ironwoodlabs.com,ironwood labs,ironwoodlabs.com,Conference,2025-12-31 13:03:14,Customer
+LEAD-10105,Daniel Thomas,danielt@falconridgemedia.com, Falcon Ridge Media ,falconridgemedia.com,LinkedIn,2025-12-09 10:20:38,Contacted
+LEAD-10106,Samuel Adams,,BrightPath Solutions,brightpathsolutions.com,Webinar,2025-08-10 01:33:47,New
+LEAD-10107,Charlotte Martin,,Velocity Tech Inc,velocitytechnologies.com,Referral,2025-12-26 13:56:46,Demo
+LEAD-10108,Isabella Brown,isabella_brown@oaklineinsights.com,Oakline Insights,oaklineinsights.com,Website,2025-08-02 23:40:27,Contacted
+LEAD-10109,Avery Hall,avery.hall@cedarpointdata.com,CedarPoint Data,cedarpointdata.com,Outbound,2025-11-16 16:56:02,Customer
+LEAD-10110,Samuel Wright,samuel_wright@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Outbound,2025-06-28 20:55:36,Contacted
+LEAD-10111,Amelia Moore,amelia.moore@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Website,2025-05-26 12:43:57,New
+LEAD-10112,Michael King,michael.king@brightpathlogic.com,BrightPath Logic,brightpathlogic.com,Website,2026-04-16 22:32:00,Customer
+LEAD-10113,Sophia Wright,sophiaw@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,Webinar,2026-01-17 02:58:10,Lost
+LEAD-10114,David Smith,david_smith@velocitydigital.com,Velocity Digital Co,velocitydigital.com,Referral,2025-06-13 22:08:30,Customer
+LEAD-10115,Charlotte Nelson,charlotte.nelson@novasolutions.com,Nova Solutions,novasolutions.com,Referral,2025-05-18 05:10:21,Contacted
+LEAD-10116,Charlotte Adams,charlotte.adams@pioneerhealthgroup.com,Pioneer Health Group Inc,pioneerhealthgroup.com,Outbound,2025-11-04 21:41:49,Customer
+LEAD-10117,David Green,davidg@goldenstatemetrics.com,Golden State Metrics,goldenstatemetrics.com,Webinar,2025-05-27 20:05:30,New
+LEAD-10118,Isabella Johnson,ijohnson@skylinetechnologies.com,Skyline Technologies,skylinetechnologies.com,Website,2025-10-23 20:29:03,Customer
+LEAD-10119,James Green,jamesg@cedarpointlogic.com,CedarPoint Logic,cedarpointlogic.com,Conference,2026-03-08 20:42:42,New
+LEAD-10120,David Wright,davidw@apexcloud.com,Apex Cloud,apexcloud.com,LinkedIn,2025-08-02 03:38:37,Lost
+LEAD-10121,Charlotte Moore,charlotte_moore@brightpathlabs.com,BrightPath Labs,brightpathlabs.com,Website,2025-12-05 03:45:10,Customer
+LEAD-10122,Evelyn Harris,evelyn_harris@deltaharborsystems.com,Delta Harbor Sys,deltaharborsystems.com,Referral,2026-02-04 11:26:33,Demo
+LEAD-10123,Chloe Nelson,chloen@pioneerhealthgroup.com,Pioneer Health Group Co,pioneerhealthgroup.com,Website,2025-10-22 11:17:48,Lost
+LEAD-10124,Emma Green,egreen@marinerdatahouse.com, mariner data house ,marinerdatahouse.com,Outbound,2025-11-29 20:48:14,New
+LEAD-10125,Aria Anderson,ariaa@skylinesolutions.com,Skyline Solutions,skylinesolutions.com,Outbound,2026-02-21 16:16:26,Customer
+LEAD-10126,Mia Anderson,mia_anderson@goldenstatemetrics.com,Golden State Metrics LLC,goldenstatemetrics.com,Website,2026-01-10 13:19:40,Qualified
+LEAD-10127,Ava Green,avag@deltaharborsystems.com, Delta Harbor Systems ,deltaharborsystems.com,Conference,2025-12-10 08:08:54,Demo
+LEAD-10128,Alexander Walker,alexander_walker@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Webinar,2025-05-01 05:49:28,Contacted
+LEAD-10129,Amelia Taylor,ameliat@brightpathsolutions.com, BRIGHTPATH SOLUTIONS ,brightpathsolutions.com,Outbound,2025-09-17 09:48:00,Customer
+LEAD-10130,Elijah King,elijah.king@greenfieldhealth.com,Greenfield Health,greenfieldhealth.com,Webinar,2025-12-18 14:56:25,New
+LEAD-10131,Elijah White,elijahw@ironwoodlabs.com, Ironwood Labs ,ironwoodlabs.com,Outbound,2025-08-29 03:01:37,Qualified
+LEAD-10132,Mason Johnson,MASON_JOHNSON@VELOCITYPARTNERS.COM, Velocity Partners ,velocitypartners.com,LinkedIn,2025-08-03 07:24:06,Lost
+LEAD-10133,Aria Smith,arias@summitdata.com,Summit Data,summitdata.com,Referral,2025-08-28 08:55:08,Lost
+LEAD-10134,Sofia Hall,sofia.hall@riverbendcommerce.com,Riverbend Commerce Corp,riverbendcommerce.com,Webinar,2026-04-01 20:51:04,Lost
+LEAD-10135,Amelia Taylor,ataylor@skylinecloud.com,Skyline Cloud,skylinecloud.com,Webinar,2026-03-30 11:18:31,New
+LEAD-10136,James Allen,,Oakline Insights,oaklineinsights.com,Conference,2025-07-18 17:16:07,Lost
+LEAD-10137,Alexander Young,alexander_young@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Website,2025-04-27 06:06:57,Demo
+LEAD-10138,Amelia Young,amelia.young@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Website,2025-10-18 00:38:59,Lost
+LEAD-10139,Avery Wright,AVERY_WRIGHT@SKYLINEDYNAMICS.COM,Skyline Dynamics,skylinedynamics.com,Webinar,2025-08-19 00:38:12,Qualified
+LEAD-10140,Benjamin Green,benjamin.green@altitudegrowthlabs.com,Altitude Growth Labs,altitudegrowthlabs.com,Website,2026-02-11 14:57:10,Contacted
+LEAD-10141,Daniel Johnson,DANIELJ@NOVAPARTNERS.COM,Nova Partners LLC,novapartners.com,Website,2026-04-18 23:49:19,Demo
+LEAD-10142,David Moore,DAVID.MOORE@DELTAHARBORSYSTEMS.COM, Delta Harbor Systems ,deltaharborsystems.com,Conference,2025-06-14 00:28:35,Customer
+LEAD-10143,Henry Johnson,henry_johnson@falconridgemedia.com, Falcon Ridge Media ,falconridgemedia.com,Outbound,2026-01-03 02:07:31,Qualified
+LEAD-10144,Ethan Young,eyoung@beacontraillogistics.com, Beacon Trail Logistics ,beacontraillogistics.com,LinkedIn,2026-03-16 03:36:04,Lost
+LEAD-10145,Ethan Adams,eadams@summersetaiworks.com, Summerset AI Works ,summersetaiworks.com,Conference,2026-01-17 09:02:04,Demo
+LEAD-10146,Ethan Adams,ethan_adams@greenfieldsystems.com,greenfield systems,greenfieldsystems.com,Website,2026-01-08 00:47:59,Demo
+LEAD-10147,Emma Moore,EMMAM@SILVERLINESOLUTIONS.COM,SilverLine Solutions,silverlinesolutions.com,Webinar,2026-02-03 22:08:51,New
+LEAD-10148,Daniel Nelson,DANIELN@BEACONTRAILLOGISTICS.COM,Beacon Trail Logistics,beacontraillogistics.com,Webinar,2025-07-29 08:14:49,Contacted
+LEAD-10149,Evelyn Scott,evelyns@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Referral,2025-06-29 05:27:57,Customer
+LEAD-10150,Elijah Lewis,, Ironwood Ops ,ironwoodops.com,Webinar,2025-12-17 19:28:00,Customer
+LEAD-10151,Charlotte Allen,charlottea@summersetaiworks.com, Summerset AI Works ,summersetaiworks.com,Referral,2026-01-05 08:18:12,Contacted
+LEAD-10152,Alexander Harris,alexander_harris@redwooddigital.com,Redwood Digital,redwooddigital.com,Conference,2025-07-26 10:12:42,Lost
+LEAD-10153,Liam Baker,liam.baker@beacontraillogistics.com,Beacon Trail Logistics,beacontraillogistics.com,Website,2025-08-15 20:32:34,Lost
+LEAD-10154,Evelyn Harris,evelyn.harris@oaklineinsights.com,Oakline Insights,oaklineinsights.com,Webinar,2026-02-17 19:01:42,New
+LEAD-10155,Luna Green,, Oakline Insights ,oaklineinsights.com,Referral,2026-04-11 12:35:18,Customer
+LEAD-10156,Chloe Walker,chloe_walker@apexanalytics.com,Apex Analytics,apexanalytics.com,Conference,2025-06-02 22:49:58,Qualified
+LEAD-10157,Isabella Baker,isabella_baker@velocitypartners.com, Velocity Partners ,velocitypartners.com,Webinar,2025-06-17 16:27:33,Contacted
+LEAD-10158,Charlotte Baker,charlotte.baker@atlasrevenuelabs.com,atlas revenue labs inc,atlasrevenuelabs.com,Webinar,2026-04-08 15:14:26,Demo
+LEAD-10159,Sofia Moore,smoore@greenfieldtechnologies.com,Greenfield Technologies LLC,greenfieldtechnologies.com,Conference,2025-10-18 20:52:52,Customer
+LEAD-10160,Olivia White,olivia_white@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,LinkedIn,2025-12-18 02:18:21,New
+LEAD-10161,Charlotte Adams,charlottea@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Webinar,2026-02-01 09:22:46,Demo
+LEAD-10162,Alexander Allen,alexander_allen@altitudegrowthlabs.com,Altitude Growth Labs,altitudegrowthlabs.com,Webinar,2025-05-22 10:15:32,Customer
+LEAD-10163,Olivia Johnson,olivia_johnson@goldenstatemetrics.com,Golden State Metrics Co,goldenstatemetrics.com,Referral,2026-04-03 22:22:41,New
+LEAD-10164,Isabella Anderson,isabellaa@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,Referral,2025-11-28 16:24:36,New
+LEAD-10165,Lucas Nelson,lucas_nelson@altitudegrowthlabs.com,Altitude Growth Labs LLC,altitudegrowthlabs.com,Website,2025-12-30 14:16:00,New
+LEAD-10166,Ethan Taylor,ethant@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,Conference,2025-07-29 10:32:00,Demo
+LEAD-10167,Michael Martin,michaelm@altitudegrowthlabs.com, ALTITUDE GROWTH LABS ,altitudegrowthlabs.com,Referral,2025-06-20 01:55:12,Customer
+LEAD-10168,Harper Thomas,harper_thomas@skylinesolutions.com,Skyline Sol,skylinesolutions.com,Website,2025-06-11 09:33:13,Customer
+LEAD-10169,Amelia Anderson,,Falcon Ridge Media,falconridgemedia.com,Webinar,2026-01-30 10:47:25,Lost
+LEAD-10170,Isabella Brown,ibrown@cloudforgelabs.com,CloudForge Labs Group,cloudforgelabs.com,LinkedIn,2026-04-15 22:31:16,Lost
+LEAD-10171,Aria Scott,ascott@deltaharborsystems.com,delta harbor systems,deltaharborsystems.com,Conference,2025-12-11 16:14:52,Contacted
+LEAD-10172,Liam King,lking@oaklineinsights.com,Oakline Insights Corp,oaklineinsights.com,Outbound,2026-02-23 08:46:10,New
+LEAD-10173,Michael Clark,michael.clark@atlasrevenuelabs.com, Atlas Revenue Labs ,atlasrevenuelabs.com,Website,2026-01-23 03:19:27,Lost
+LEAD-10174,Ava Wright,awright@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,LinkedIn,2025-12-16 08:43:09,New
+LEAD-10175,Logan Baker,logan_baker@skylineops.com,Skyline Ops,skylineops.com,Webinar,2025-06-07 23:32:16,Qualified
+LEAD-10176,Daniel Hall,daniel_hall@pioneerhealthgroup.com, Pioneer Health Group ,pioneerhealthgroup.com,Referral,2025-10-22 21:50:54,New
+LEAD-10177,Luna Brown,luna_brown@novasystems.com,Nova Systems,novasystems.com,Outbound,2025-10-10 05:05:38,Contacted
+LEAD-10178,Ava Moore,ava.moore@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,Website,2025-08-07 21:29:45,Contacted
+LEAD-10179,David Clark,DAVID.CLARK@BEACONTRAILLOGISTICS.COM,Beacon Trail Logistics Co,beacontraillogistics.com,Referral,2025-12-14 05:17:40,Demo
+LEAD-10180,Evelyn Hall,ehall@marinerdatahouse.com, Mariner Data House Co ,marinerdatahouse.com,Conference,2025-07-28 21:03:56,New
+LEAD-10181,Avery Lewis,avery_lewis@deltaharborsystems.com,Delta Harbor Systems,deltaharborsystems.com,Webinar,2025-07-21 00:40:56,Customer
+LEAD-10182,Ethan Walker,ETHANW@SUMMERSETAIWORKS.COM, Summerset AI Works ,summersetaiworks.com,Conference,2025-08-05 05:32:46,Qualified
+LEAD-10183,Harper Nelson,hnelson@deltaharborsystems.com,Delta Harbor Systems,deltaharborsystems.com,Website,2026-04-15 02:21:11,Qualified
+LEAD-10184,Mia Baker,mia.baker@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Conference,2025-08-09 13:51:08,Demo
+LEAD-10185,David Martin,david_martin@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Outbound,2025-08-23 07:39:39,New
+LEAD-10186,Ava Johnson,avaj@beacontraillogistics.com,Beacon Trail Logistics Co,beacontraillogistics.com,Referral,2025-10-02 11:48:26,Demo
+LEAD-10187,Ella Clark,eclark@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,Webinar,2025-06-19 19:28:01,Qualified
+LEAD-10188,Samuel Johnson,samuelj@apexlogic.com,APEX LOGIC,apexlogic.com,Outbound,2026-03-14 13:21:40,New
+LEAD-10189,Sophia Hall,sophiah@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,LinkedIn,2025-09-07 15:26:03,Contacted
+LEAD-10190,Ethan Baker,ethan.baker@atlasrevenuelabs.com, Atlas Revenue Labs ,atlasrevenuelabs.com,Conference,2025-09-26 22:19:59,Qualified
+LEAD-10191,Olivia Brown,oliviab@clearbridgepartners.com,ClearBridge Partners,clearbridgepartners.com,Referral,2025-07-03 03:31:17,Contacted
+LEAD-10192,Noah Anderson,noah.anderson@goldenstatemetrics.com, Golden State Metrics Corp ,goldenstatemetrics.com,LinkedIn,2025-12-18 18:42:28,Contacted
+LEAD-10193,Lucas Brown,lbrown@beacontraillogistics.com, Beacon Trail Logistics Group ,beacontraillogistics.com,Outbound,2025-10-21 04:08:12,Contacted
+LEAD-10194,Logan King,logan_king@greenfieldhealth.com,Greenfield Health,greenfieldhealth.com,Website,2025-10-11 08:00:52,Qualified
+LEAD-10195,Charlotte Clark,cclark@cloudforgesystems.com,CloudForge Systems Corp,cloudforgesystems.com,Referral,2026-02-26 03:59:18,Customer
+LEAD-10196,Ava King,aking@silverlineops.com,SilverLine Ops,silverlineops.com,Conference,2026-03-02 08:43:19,Lost
+LEAD-10197,Logan White,LOGAN_WHITE@SUMMERSETAIWORKS.COM,Summerset AI Works Inc,summersetaiworks.com,Website,2025-06-20 19:42:44,Customer
+LEAD-10198,Emma King,emma_king@ironwoodlabs.com,Ironwood Labs Corp,ironwoodlabs.com,Webinar,2026-02-24 02:11:27,Customer
+LEAD-10199,Liam Harris,,BrightPath Technologies,brightpathtechnologies.com,Webinar,2025-07-28 10:04:31,Customer
+LEAD-10200,Michael Hall,michael.hall@skylinepartners.com,Skyline Partners,skylinepartners.com,Conference,2025-11-11 00:57:45,Contacted
+LEAD-10201,Elijah Jackson,elijah.jackson@riverbendcommerce.com, riverbend commerce corp ,riverbendcommerce.com,Website,2025-05-09 00:59:04,Contacted
+LEAD-10202,Samuel Adams,SADAMS@ALTITUDEGROWTHLABS.COM,ALTITUDE GROWTH LABS,altitudegrowthlabs.com,Webinar,2025-11-17 00:45:12,Customer
+LEAD-10203,Sophia Anderson,sophiaa@altitudegrowthlabs.com, Altitude Growth Labs Corp ,altitudegrowthlabs.com,LinkedIn,2025-11-19 12:13:34,Lost
+LEAD-10204,Henry Moore,henry_moore@summersetaiworks.com, Summerset AI Works ,summersetaiworks.com,LinkedIn,2025-10-16 01:54:03,Contacted
+LEAD-10205,Ava Green,ava.green@atlasrevenuelabs.com, Atlas Revenue Labs ,atlasrevenuelabs.com,Webinar,2025-11-01 23:04:20,Contacted
+LEAD-10206,Lucas Scott,, SilverLine Ops ,silverlineops.com,Webinar,2026-03-13 12:27:16,Customer
+LEAD-10207,Michael Baker,,Mariner Data House Inc,marinerdatahouse.com,Outbound,2026-02-27 19:37:30,Customer
+LEAD-10208,Emma Clark,emma.clark@beacontraillogistics.com, Beacon Trail Logistics Inc ,beacontraillogistics.com,Referral,2025-11-15 05:01:05,Customer
+LEAD-10209,Michael Moore,mmoore@clearbridgesoftware.com,ClearBridge Software,clearbridgesoftware.com,Website,2025-06-26 12:21:12,Contacted
+LEAD-10210,Harper King,harper_king@cedarpointpartners.com,CedarPoint Partners,cedarpointpartners.com,LinkedIn,2025-12-15 00:24:06,Demo
+LEAD-10211,Mason Wright,masonw@beacontraillogistics.com, BEACON TRAIL LOGISTICS ,beacontraillogistics.com,LinkedIn,2025-04-25 06:48:14,Customer
+LEAD-10212,Charlotte Martin,charlottem@bluerivertechnologies.com, blueriver technologies ,bluerivertechnologies.com,Conference,2025-07-28 18:24:47,New
+LEAD-10213,Daniel Jackson,djackson@oaklineinsights.com,Oakline Insights,oaklineinsights.com,Conference,2025-12-28 03:49:30,Demo
+LEAD-10214,Charlotte Smith,charlotte.smith@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Conference,2026-04-18 09:15:10,Qualified
+LEAD-10215,Ava Green,ava.green@beacontraillogistics.com, Beacon Trail Logistics ,beacontraillogistics.com,Conference,2025-12-02 03:20:30,New
+LEAD-10216,Mia Martin,mia.martin@silverlinesolutions.com,SilverLine Solutions,silverlinesolutions.com,Outbound,2025-11-25 22:35:46,Customer
+LEAD-10217,Evelyn Allen,eallen@blueriverdata.com,BlueRiver Data,blueriverdata.com,Referral,2025-08-25 07:04:34,Contacted
+LEAD-10218,Sofia Scott,sofias@riverbendcommerce.com, Riverbend Commerce ,riverbendcommerce.com,Webinar,2026-03-19 21:54:57,New
+LEAD-10219,Mia Taylor,mtaylor@deltaharborsystems.com,Delta Harbor Systems Inc,deltaharborsystems.com,Conference,2025-11-11 22:46:10,Lost
+LEAD-10220,Chloe King,chloe.king@atlasrevenuelabs.com, Atlas Revenue Labs ,atlasrevenuelabs.com,Outbound,2026-01-02 00:21:49,Lost
+LEAD-10221,Ava Brown,AVAB@CEDARPOINTDYNAMICS.COM,CedarPoint Dynamics,cedarpointdynamics.com,LinkedIn,2025-10-27 22:57:24,Demo
+LEAD-10222,Mia Thomas,mia.thomas@vertexanalytics.com, Vertex Analytics ,vertexanalytics.com,Referral,2025-11-03 09:34:49,Demo
+LEAD-10223,Logan Smith,logan.smith@beacontraillogistics.com,Beacon Trail Logistics Co,beacontraillogistics.com,Conference,2026-03-27 15:44:43,Lost
+LEAD-10224,Daniel Walker,danielw@cloudforgesystems.com,cloudforge systems,cloudforgesystems.com,Conference,2026-04-10 23:19:01,Qualified
+LEAD-10225,James Walker,jwalker@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Outbound,2025-09-29 10:43:20,Demo
+LEAD-10226,Charlotte Hall,charlotteh@goldenstatemetrics.com,Golden State Metrics Inc,goldenstatemetrics.com,Referral,2025-07-21 09:50:14,Lost
+LEAD-10227,Noah Clark,noah_clark@skylinehealth.com, SKYLINE HEALTH ,skylinehealth.com,Website,2026-04-17 03:15:29,Qualified
+LEAD-10228,Logan Walker,logan.walker@everstonedigital.com,Everstone Digital,everstonedigital.com,Website,2025-12-14 19:53:45,Lost
+LEAD-10229,Michael Nelson,michael.nelson@everstonepartners.com,Everstone Partners,everstonepartners.com,Conference,2025-09-20 04:23:15,Lost
+LEAD-10230,Emma Moore,emmam@velocitytechnologies.com,Velocity Technologies,velocitytechnologies.com,Webinar,2025-11-03 04:02:48,Lost
+LEAD-10231,Elijah Thomas,elijah_thomas@atlasrevenuelabs.com,atlas revenue labs group,atlasrevenuelabs.com,Webinar,2026-04-10 00:56:42,Qualified
+LEAD-10232,Amelia Adams,AMELIA_ADAMS@OAKLINEINSIGHTS.COM,oakline insights,oaklineinsights.com,Website,2026-02-15 02:16:59,New
+LEAD-10233,Amelia Harris,aharris@goldenstatemetrics.com,Golden State Metrics,goldenstatemetrics.com,Website,2026-04-06 16:35:44,Lost
+LEAD-10234,James Moore,JAMES_MOORE@BRIGHTPATHLABS.COM,BrightPath Labs,brightpathlabs.com,Conference,2025-04-25 06:50:35,Contacted
+LEAD-10235,Mason King,MASON.KING@APEXANALYTICS.COM, Apex Analytics ,apexanalytics.com,Website,2025-05-11 18:35:00,Qualified
+LEAD-10236,Sophia Walker,swalker@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Outbound,2026-03-16 05:47:36,Demo
+LEAD-10237,Olivia White,oliviaw@oaklineinsights.com, Oakline Insights LLC ,oaklineinsights.com,Outbound,2026-01-28 22:26:17,Demo
+LEAD-10238,Isabella Walker,isabellaw@altitudegrowthlabs.com,Altitude Growth Labs,altitudegrowthlabs.com,LinkedIn,2025-07-06 21:38:43,Contacted
+LEAD-10239,Ava Taylor,ataylor@apexanalytics.com,APEX ANALYTICS,apexanalytics.com,LinkedIn,2025-07-30 12:55:16,Customer
+LEAD-10240,Olivia White,oliviaw@ironwoodsoftware.com, Ironwood Software ,ironwoodsoftware.com,Outbound,2026-02-26 08:31:39,Customer
+LEAD-10241,Liam Green,liamg@cloudforgesystems.com,CloudForge Systems,cloudforgesystems.com,Website,2025-07-12 14:43:29,Demo
+LEAD-10242,Alexander Clark,alexander_clark@cloudforgesystems.com,CloudForge Systems,cloudforgesystems.com,LinkedIn,2026-01-23 09:45:59,Customer
+LEAD-10243,Liam Jackson,liamj@apexlogic.com,APEX LOGIC INC,apexlogic.com,Conference,2025-06-21 13:41:13,Lost
+LEAD-10244,Evelyn Harris,evelynh@atlasrevenuelabs.com,atlas revenue labs,atlasrevenuelabs.com,Outbound,2025-09-20 06:09:43,Lost
+LEAD-10245,Elijah Johnson,elijah.johnson@redwoodanalytics.com,Redwood Analytics Co,redwoodanalytics.com,LinkedIn,2025-08-08 04:08:19,Demo
+LEAD-10246,Ethan Hall,ethanh@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,LinkedIn,2025-12-01 16:25:08,New
+LEAD-10247,Mason Thomas,mason.thomas@everstonepartners.com, Everstone Partners ,everstonepartners.com,Conference,2025-12-23 04:40:12,Lost
+LEAD-10248,Avery Scott,avery.scott@primewavehealth.com,PrimeWave Health,primewavehealth.com,Webinar,2025-12-28 23:59:41,Customer
+LEAD-10249,Aria Allen,ariaa@novasystems.com,Nova Sys,novasystems.com,Outbound,2025-06-05 13:45:42,New
+LEAD-10250,Sofia Allen,sofiaa@pioneerhealthgroup.com,Pioneer Health Group Inc,pioneerhealthgroup.com,Outbound,2025-07-24 09:15:39,Contacted
+LEAD-10251,Mason King,mason_king@summitlabs.com,SUMMIT LABS,summitlabs.com,Conference,2026-03-13 16:38:11,Qualified
+LEAD-10252,Henry Taylor,henry.taylor@cobaltretailpartners.com, Cobalt Retail Partners ,cobaltretailpartners.com,Outbound,2025-12-29 05:18:44,Contacted
+LEAD-10253,Emma Brown,emma.brown@cedarpointsoftware.com,CedarPoint Software,cedarpointsoftware.com,LinkedIn,2025-11-30 04:56:21,Lost
+LEAD-10254,Charlotte Walker,charlotte.walker@altitudegrowthlabs.com, Altitude Growth Labs ,altitudegrowthlabs.com,Conference,2026-03-07 11:33:11,Lost
+LEAD-10255,Sofia Taylor,sofia_taylor@falconridgemedia.com,falcon ridge media,falconridgemedia.com,LinkedIn,2026-03-14 22:35:51,Contacted
+LEAD-10256,Camila Anderson,camila.anderson@brightpathpartners.com,brightpath partners,brightpathpartners.com,Outbound,2026-04-04 18:22:13,Customer
+LEAD-10257,Luna Scott,luna_scott@apexcloud.com,Apex Cloud,apexcloud.com,Conference,2025-12-02 13:34:16,Qualified
+LEAD-10258,Ella Smith,ellas@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Outbound,2025-11-09 11:53:49,Qualified
+LEAD-10259,Mia Young,mia.young@oaklineinsights.com,OAKLINE INSIGHTS,oaklineinsights.com,Outbound,2025-12-01 15:19:20,Contacted
+LEAD-10260,Alexander Walker,alexanderw@cedarpointlogic.com,CedarPoint Logic Corp,cedarpointlogic.com,Website,2025-08-12 02:53:37,Customer
+LEAD-10261,Henry Brown,hbrown@redwoodworks.com,Redwood Works,redwoodworks.com,LinkedIn,2026-03-02 11:11:56,Customer
+LEAD-10262,Harper Jackson,HARPER.JACKSON@DELTAHARBORSYSTEMS.COM,Delta Harbor Systems LLC,deltaharborsystems.com,Webinar,2025-12-26 08:12:16,Qualified
+LEAD-10263,Amelia Moore,ameliam@altitudegrowthlabs.com,Altitude Growth Labs Corp,altitudegrowthlabs.com,Webinar,2026-01-21 18:19:10,New
+LEAD-10264,Michael Allen,michael_allen@summitcloud.com, Summit Cloud ,summitcloud.com,Conference,2026-04-14 06:20:59,Customer
+LEAD-10265,Logan Harris,logan_harris@cedarpointlogic.com,CedarPoint Logic Group,cedarpointlogic.com,Website,2026-01-09 00:32:45,New
+LEAD-10266,Ava Brown,avab@bluerivernetworks.com, BlueRiver Networks Inc ,bluerivernetworks.com,Conference,2025-12-26 12:56:29,Qualified
+LEAD-10267,Elijah Adams,eadams@oaklineinsights.com,Oakline Insights,oaklineinsights.com,Webinar,2026-04-21 07:25:38,Customer
+LEAD-10268,Olivia Green,oliviag@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,Referral,2025-10-10 20:01:59,Customer
+LEAD-10269,Olivia Allen,oallen@deltaharborsystems.com,Delta Harbor Systems,deltaharborsystems.com,Website,2025-05-21 01:14:13,Demo
+LEAD-10270,Olivia Wright,olivia_wright@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Conference,2026-01-22 12:56:26,New
+LEAD-10271,Henry Allen,HENRY.ALLEN@SUMMITSOFTWARE.COM,Summit Software,summitsoftware.com,Webinar,2025-08-18 08:08:25,Customer
+LEAD-10272,David Smith,davids@goldenstatemetrics.com, Golden State Metrics ,goldenstatemetrics.com,Webinar,2025-09-21 05:37:03,New
+LEAD-10273,Sophia Green,sophia_green@cobaltretailpartners.com,Cobalt Retail Partners Group,cobaltretailpartners.com,Outbound,2025-04-29 02:36:27,New
+LEAD-10274,Liam Harris,lharris@silverlinesolutions.com,SilverLine Solutions,silverlinesolutions.com,Website,2026-02-02 08:33:34,Customer
+LEAD-10275,Lucas Allen,lucas.allen@cobaltretailpartners.com,Cobalt Retail Partners Inc,cobaltretailpartners.com,Website,2026-03-06 08:01:41,Lost
+LEAD-10276,Sophia Taylor,staylor@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Referral,2026-02-13 12:41:53,Contacted
+LEAD-10277,Liam Wright,liam_wright@primewavesoftware.com, PrimeWave Software LLC ,primewavesoftware.com,Referral,2025-04-28 19:15:47,Customer
+LEAD-10278,Henry Brown,henryb@summitdata.com,Summit Data,summitdata.com,Referral,2025-12-15 20:12:16,Lost
+LEAD-10279,Liam Scott,LIAMS@APEXLOGIC.COM,Apex Logic Inc,apexlogic.com,Conference,2025-07-16 21:22:47,Customer
+LEAD-10280,Aria Green,aria.green@riverbendcommerce.com, RIVERBEND COMMERCE ,riverbendcommerce.com,LinkedIn,2025-07-13 03:05:46,New
+LEAD-10281,Luna Jackson,luna.jackson@clearbridgedata.com, ClearBridge Data Inc ,clearbridgedata.com,LinkedIn,2025-10-02 11:33:31,Lost
+LEAD-10282,Evelyn Nelson,EVELYN.NELSON@ALTITUDEGROWTHLABS.COM,Altitude Growth Labs,altitudegrowthlabs.com,Outbound,2025-06-18 00:31:43,Contacted
+LEAD-10283,Benjamin Scott,benjamin_scott@beacontraillogistics.com, BEACON TRAIL LOGISTICS ,beacontraillogistics.com,Outbound,2025-10-17 19:50:36,Contacted
+LEAD-10284,Camila Thomas,cthomas@deltaharborsystems.com,delta harbor systems,deltaharborsystems.com,Outbound,2026-03-23 13:51:20,Lost
+LEAD-10285,Benjamin Wright,benjamin_wright@cobaltretailpartners.com,cobalt retail partners,cobaltretailpartners.com,Website,2025-10-01 23:29:38,Contacted
+LEAD-10286,Liam Smith,liam.smith@atlasrevenuelabs.com, atlas revenue labs ,atlasrevenuelabs.com,Webinar,2026-01-31 22:19:14,Customer
+LEAD-10287,Camila Moore,camila.moore@vertextechnologies.com,Vertex Technologies,vertextechnologies.com,Webinar,2025-09-27 03:48:38,Contacted
+LEAD-10288,Harper Clark,harper.clark@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Referral,2026-02-22 15:23:53,Demo
+LEAD-10289,Mia Scott,mias@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Webinar,2026-02-17 03:49:27,Lost
+LEAD-10290,Benjamin Anderson,benjamin_anderson@deltaharborsystems.com,Delta Harbor Systems,deltaharborsystems.com,Conference,2026-01-11 21:45:02,Qualified
+LEAD-10291,Luna Jackson,luna.jackson@cedarpointsolutions.com,CedarPoint Solutions,cedarpointsolutions.com,Website,2025-07-04 21:09:38,Contacted
+LEAD-10292,Aria Brown,aria.brown@clearbridgeops.com,ClearBridge Ops,clearbridgeops.com,Webinar,2025-11-19 00:07:03,New
+LEAD-10293,James Allen,,Summit Technologies,summittechnologies.com,Webinar,2026-02-22 07:18:45,Customer
+LEAD-10294,Ethan Allen,ethan_allen@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Website,2025-06-19 08:11:29,Qualified
+LEAD-10295,Sofia White,swhite@pioneerhealthgroup.com,pioneer health group,pioneerhealthgroup.com,Website,2025-08-23 16:44:41,Demo
+LEAD-10296,James Hall,jamesh@everstoneanalytics.com,EVERSTONE ANALYTICS,everstoneanalytics.com,Referral,2025-10-17 14:49:37,Contacted
+LEAD-10297,Ethan Anderson,ethana@apexdigital.com,Apex Digital,apexdigital.com,Outbound,2025-09-01 06:20:44,Qualified
+LEAD-10298,Elijah Nelson,elijah.nelson@falconridgemedia.com, Falcon Ridge Media ,falconridgemedia.com,Referral,2026-02-20 03:40:00,New
+LEAD-10299,Logan Moore,logan.moore@northpeakanalytics.com,NorthPeak Analytics,northpeakanalytics.com,Webinar,2026-03-20 07:36:31,Customer
+LEAD-10300,Luna Clark,LUNA_CLARK@APEXSOLUTIONS.COM,Apex Solutions,apexsolutions.com,Outbound,2026-01-30 16:40:25,Contacted
+LEAD-10301,Camila Anderson,canderson@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Webinar,2026-04-12 20:30:05,New
+LEAD-10302,Logan Walker,lwalker@northpeaklogic.com,NorthPeak Logic,northpeaklogic.com,Webinar,2025-10-19 17:15:44,Customer
+LEAD-10303,Daniel Johnson,daniel_johnson@pioneerhealthgroup.com,PIONEER HEALTH GROUP,pioneerhealthgroup.com,Outbound,2025-05-18 15:29:54,Contacted
+LEAD-10304,Ella Wright,ella_wright@beacontraillogistics.com, Beacon Trail Logistics ,beacontraillogistics.com,Outbound,2026-03-29 20:05:17,Lost
+LEAD-10305,James Clark,, CedarPoint Dynamics ,cedarpointdynamics.com,Conference,2026-02-09 00:35:03,Contacted
+LEAD-10306,Amelia King,ameliak@bluerivertechnologies.com,blueriver technologies,bluerivertechnologies.com,Outbound,2025-09-29 17:38:42,Customer
+LEAD-10307,Alexander Thomas,alexander.thomas@cloudforgesystems.com,CloudForge Systems LLC,cloudforgesystems.com,Conference,2025-11-11 21:25:12,Qualified
+LEAD-10308,Alexander Thomas,alexander.thomas@falconridgemedia.com,Falcon Ridge Media LLC,falconridgemedia.com,Website,2025-05-22 22:07:24,Customer
+LEAD-10309,Noah Allen,noah.allen@falconridgemedia.com, FALCON RIDGE MEDIA INC ,falconridgemedia.com,Website,2026-04-15 01:30:49,Contacted
+LEAD-10310,Benjamin Wright,benjamin.wright@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Referral,2025-11-04 19:40:23,Demo
+LEAD-10311,Olivia Taylor,otaylor@falconridgemedia.com,Falcon Ridge Media,falconridgemedia.com,Outbound,2025-09-12 01:15:39,Qualified
+LEAD-10312,Harper Hall,harperh@oaklineinsights.com,Oakline Insights,oaklineinsights.com,Outbound,2026-02-12 18:29:01,Contacted
+LEAD-10313,Ella Adams,ella.adams@skylinecloud.com,Skyline Cloud,skylinecloud.com,Outbound,2025-07-05 01:10:53,New
+LEAD-10314,Olivia Allen,olivia_allen@altitudegrowthlabs.com, Altitude Growth Labs ,altitudegrowthlabs.com,Webinar,2026-04-17 01:54:31,New
+LEAD-10315,Amelia Brown,amelia_brown@silverlineworks.com,SilverLine Works,silverlineworks.com,Webinar,2025-09-25 04:02:36,Contacted
+LEAD-10316,Sofia Allen,sofiaa@beacontraillogistics.com,beacon trail logistics corp,beacontraillogistics.com,Website,2025-11-02 04:31:54,Lost
+LEAD-10317,Noah Thomas,noah.thomas@novacloud.com,Nova Cloud,novacloud.com,Conference,2025-09-03 04:18:28,Contacted
+LEAD-10318,Noah Smith,noahs@oaklineinsights.com,Oakline Insights LLC,oaklineinsights.com,Referral,2025-08-22 01:54:47,Qualified
+LEAD-10319,Michael Allen,michael_allen@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,LinkedIn,2025-08-25 04:41:38,Demo
+LEAD-10320,Emma Johnson,emmaj@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Website,2026-01-04 12:46:53,Customer
+LEAD-10321,Mason Martin,mason.martin@skylinesystems.com,Skyline Systems Group,skylinesystems.com,LinkedIn,2025-04-30 15:44:27,Demo
+LEAD-10322,Samuel Wright,samuel.wright@bluerivertechnologies.com,BlueRiver Technologies,bluerivertechnologies.com,LinkedIn,2025-10-09 01:18:35,Contacted
+LEAD-10323,Evelyn Allen,EALLEN@OAKLINEINSIGHTS.COM,oakline insights,oaklineinsights.com,Website,2025-12-08 14:09:23,Customer
+LEAD-10324,Alexander Jackson,alexanderj@cedarpointlogic.com,CedarPoint Logic,cedarpointlogic.com,Conference,2025-11-08 21:10:02,Qualified
+LEAD-10325,Aria Baker,abaker@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Outbound,2026-04-20 17:00:58,Lost
+LEAD-10326,Emma Young,emmay@northpeaklogic.com,NorthPeak Logic,northpeaklogic.com,Referral,2025-07-31 07:50:02,Customer
+LEAD-10327,Mason Lewis,masonl@cloudforgesystems.com, cloudforge systems ,cloudforgesystems.com,LinkedIn,2026-01-03 12:50:02,Customer
+LEAD-10328,Harper Green,,Atlas Revenue Labs,atlasrevenuelabs.com,Webinar,2026-01-03 01:16:31,Qualified
+LEAD-10329,Mia Lewis,mlewis@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Website,2025-07-24 04:36:54,Customer
+LEAD-10330,Elijah Harris,eharris@clearbridgeanalytics.com,ClearBridge Analytics LLC,clearbridgeanalytics.com,LinkedIn,2026-01-19 10:29:16,Customer
+LEAD-10331,Elijah Harris,elijahh@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Webinar,2026-01-04 21:56:52,Demo
+LEAD-10332,Emma Adams,emma_adams@goldenstatemetrics.com, Golden State Metrics ,goldenstatemetrics.com,Outbound,2026-04-17 22:34:24,Contacted
+LEAD-10333,Chloe White,cwhite@novasolutions.com,Nova Solutions,novasolutions.com,Outbound,2025-10-22 16:28:01,Customer
+LEAD-10334,Camila Harris,camilah@oaklineinsights.com,OAKLINE INSIGHTS,oaklineinsights.com,Webinar,2025-07-03 02:09:19,Customer
+LEAD-10335,Avery Green,avery.green@novaanalytics.com,Nova Analytics,novaanalytics.com,LinkedIn,2025-10-15 01:46:08,Contacted
+LEAD-10336,Samuel Nelson,samueln@summitdata.com,Summit Data Corp,summitdata.com,Webinar,2025-12-16 09:51:39,Demo
+LEAD-10337,Daniel Brown,, Delta Harbor Systems ,deltaharborsystems.com,Website,2026-01-26 19:15:39,Contacted
+LEAD-10338,Luna Hall,lhall@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,LinkedIn,2026-01-29 22:59:17,New
+LEAD-10339,Evelyn Walker,evelynw@silverlineanalytics.com,silverline analytics group,silverlineanalytics.com,Webinar,2025-09-24 03:03:23,New
+LEAD-10340,Benjamin Adams,BENJAMIN.ADAMS@VELOCITYSYSTEMS.COM,Velocity Systems,velocitysystems.com,Webinar,2026-02-07 07:41:50,Customer
+LEAD-10341,Liam Johnson,liamj@northpeakdynamics.com,NorthPeak Dynamics LLC,northpeakdynamics.com,LinkedIn,2026-01-23 13:38:23,Qualified
+LEAD-10342,Luna Anderson,lunaa@bluerivertechnologies.com,BlueRiver Technologies,bluerivertechnologies.com,Referral,2025-08-23 06:39:04,Customer
+LEAD-10343,Henry Anderson,,Golden State Metrics LLC,goldenstatemetrics.com,Outbound,2025-05-08 13:47:03,Demo
+LEAD-10344,Avery Clark,avery_clark@summersetaiworks.com,Summerset AI Works Co,summersetaiworks.com,LinkedIn,2025-11-27 11:25:27,Qualified
+LEAD-10345,Benjamin Wright,BWRIGHT@FALCONRIDGEMEDIA.COM,Falcon Ridge Media,falconridgemedia.com,Outbound,2025-09-14 19:23:37,Qualified
+LEAD-10346,Sophia Harris,sophia_harris@brightpathworks.com,BrightPath Works,brightpathworks.com,Webinar,2026-02-01 21:55:56,Qualified
+LEAD-10347,James Moore,james.moore@goldenstatemetrics.com,Golden State Metrics,goldenstatemetrics.com,Website,2026-03-19 18:01:01,Contacted
+LEAD-10348,Benjamin Thomas,bthomas@novaanalytics.com,nova analytics,novaanalytics.com,LinkedIn,2025-11-07 19:51:08,Contacted
+LEAD-10349,Evelyn Allen,evelyn_allen@greenfieldsolutions.com,Greenfield Solutions,greenfieldsolutions.com,Webinar,2025-07-18 19:33:18,Qualified
+LEAD-10350,Lucas Allen,LUCASA@GOLDENSTATEMETRICS.COM,Golden State Metrics,goldenstatemetrics.com,Outbound,2025-08-15 11:39:59,Qualified
+LEAD-10351,Emma King,emma_king@redwoodanalytics.com,Redwood Analytics,redwoodanalytics.com,Webinar,2025-10-19 11:55:21,Qualified
+LEAD-10352,Harper Thomas,harpert@falconridgemedia.com,Falcon Ridge Media,falconridgemedia.com,Referral,2025-07-03 14:43:03,New
+LEAD-10353,Mia Nelson,MIA.NELSON@RIVERBENDCOMMERCE.COM,Riverbend Commerce,riverbendcommerce.com,Webinar,2025-12-12 11:34:32,Lost
+LEAD-10354,Henry White,HENRY_WHITE@MARINERDATAHOUSE.COM, Mariner Data House LLC ,marinerdatahouse.com,Webinar,2025-06-18 02:30:47,Contacted
+LEAD-10355,Mason Walker,masonw@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,Website,2026-03-22 15:27:42,Contacted
+LEAD-10356,Avery Wright,avery.wright@vertextechnologies.com,Vertex Technologies,vertextechnologies.com,LinkedIn,2025-05-07 02:36:12,Demo
+LEAD-10357,Henry Lewis,HENRY_LEWIS@MARINERDATAHOUSE.COM, Mariner Data House Group ,marinerdatahouse.com,Outbound,2025-12-20 13:31:54,Customer
+LEAD-10358,Sofia Hall,shall@falconridgemedia.com,Falcon Ridge Media,falconridgemedia.com,Outbound,2025-06-12 16:03:52,New
+LEAD-10359,Isabella Nelson,isabellan@beacontraillogistics.com,Beacon Trail Logistics,beacontraillogistics.com,Referral,2025-06-22 10:31:51,Customer
+LEAD-10360,Henry Taylor,htaylor@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Website,2025-08-31 21:29:38,Contacted
+LEAD-10361,Luna Taylor,luna_taylor@oaklineinsights.com,oakline insights,oaklineinsights.com,Conference,2025-12-13 09:57:51,Demo
+LEAD-10362,Sophia Adams,sophia.adams@summittechnologies.com, Summit Technologies ,summittechnologies.com,Website,2026-03-26 22:40:11,Customer
+LEAD-10363,Benjamin Clark,BENJAMIN_CLARK@VERTEXTECHNOLOGIES.COM, Vertex Technologies ,vertextechnologies.com,Website,2025-07-27 00:05:22,Customer
+LEAD-10364,Samuel Harris,samuel_harris@blueriversoftware.com,BlueRiver Software Group,blueriversoftware.com,Outbound,2026-03-19 18:25:59,New
+LEAD-10365,Ella Johnson,ella.johnson@vertexdynamics.com, Vertex Dynamics ,vertexdynamics.com,Conference,2025-05-15 04:24:16,New
+LEAD-10366,Isabella Walker,ISABELLAW@SILVERLINEHEALTH.COM,SilverLine Health,silverlinehealth.com,Conference,2025-12-21 05:01:55,Customer
+LEAD-10367,Avery Adams,AADAMS@CLEARBRIDGEDATA.COM,ClearBridge Data,clearbridgedata.com,Referral,2025-05-28 18:43:08,Customer
+LEAD-10368,Charlotte Young,charlottey@primewaveops.com, PrimeWave Ops ,primewaveops.com,LinkedIn,2025-06-09 19:35:56,Customer
+LEAD-10369,Emma Green,emma.green@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Conference,2025-07-22 13:06:18,Contacted
+LEAD-10370,Sofia White,swhite@silverlinesolutions.com,SilverLine Solutions Co,silverlinesolutions.com,Outbound,2026-03-10 11:10:35,Customer
+LEAD-10371,Camila Brown,,Velocity Systems,velocitysystems.com,Webinar,2025-10-04 04:09:32,Lost
+LEAD-10372,Avery Adams,avery_adams@cobaltretailpartners.com,cobalt retail partners corp,cobaltretailpartners.com,Outbound,2025-05-05 09:30:03,Customer
+LEAD-10373,Amelia King,amelia.king@everstoneworks.com,Everstone Works,everstoneworks.com,Referral,2025-06-16 22:25:01,Demo
+LEAD-10374,Camila Smith,csmith@riverbendcommerce.com,Riverbend Commerce Group,riverbendcommerce.com,LinkedIn,2026-02-20 04:16:54,Lost
+LEAD-10375,Michael Allen,mallen@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Outbound,2025-09-20 02:52:15,New
+LEAD-10376,Daniel Lewis,daniell@redwoodanalytics.com,Redwood Analytics,redwoodanalytics.com,Conference,2025-05-25 19:15:09,Lost
+LEAD-10377,Evelyn Scott,escott@falconridgemedia.com, Falcon Ridge Media Group ,falconridgemedia.com,Conference,2025-10-12 06:05:48,Lost
+LEAD-10378,Mia King,MIA_KING@BEACONTRAILLOGISTICS.COM,Beacon Trail Logistics,beacontraillogistics.com,Website,2025-11-19 03:19:36,Demo
+LEAD-10379,Amelia White,AMELIA_WHITE@CEDARPOINTWORKS.COM,cedarpoint works,cedarpointworks.com,LinkedIn,2025-07-31 21:41:59,Customer
+LEAD-10380,Michael Taylor,michael_taylor@apexpartners.com,APEX PARTNERS,apexpartners.com,Webinar,2025-07-22 12:11:49,Customer
+LEAD-10381,Noah Jackson,njackson@marinerdatahouse.com, Mariner Data House Group ,marinerdatahouse.com,LinkedIn,2025-11-18 14:50:29,Demo
+LEAD-10382,Amelia Martin,,Beacon Trail Logistics,beacontraillogistics.com,Outbound,2025-08-06 20:56:45,Lost
+LEAD-10383,Chloe Baker,,cedarpoint cloud,cedarpointcloud.com,Conference,2025-08-09 06:19:05,Customer
+LEAD-10384,Luna Moore,lunam@altitudegrowthlabs.com,Altitude Growth Labs,altitudegrowthlabs.com,LinkedIn,2025-04-28 21:32:24,Lost
+LEAD-10385,James Green,james.green@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Website,2025-11-17 22:09:13,Qualified
+LEAD-10386,Noah Baker,noahb@everstoneworks.com, Everstone Works ,everstoneworks.com,Webinar,2025-04-30 09:57:23,Contacted
+LEAD-10387,Logan Baker,loganb@altitudegrowthlabs.com, Altitude Growth Labs ,altitudegrowthlabs.com,Website,2025-07-07 21:14:21,Contacted
+LEAD-10388,David Taylor,dtaylor@marinerdatahouse.com,mariner data house,marinerdatahouse.com,LinkedIn,2026-04-20 07:01:10,Qualified
+LEAD-10389,Daniel Young,daniel.young@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,Webinar,2025-05-12 20:58:27,Contacted
+LEAD-10390,Ethan Walker,ethan_walker@beacontraillogistics.com,Beacon Trail Logistics LLC,beacontraillogistics.com,LinkedIn,2025-05-24 12:05:32,Contacted
+LEAD-10391,Noah Nelson,nnelson@northpeaksoftware.com,NorthPeak Software Inc,northpeaksoftware.com,LinkedIn,2025-07-27 17:12:58,Customer
+LEAD-10392,Sophia Allen,sallen@cedarpointpartners.com,cedarpoint partners,cedarpointpartners.com,Website,2025-09-16 07:09:20,Customer
+LEAD-10393,Ethan Adams,ethan.adams@brightpathsoftware.com,brightpath software inc,brightpathsoftware.com,Referral,2026-03-24 12:04:23,New
+LEAD-10394,Ava Hall,ava.hall@silverlineanalytics.com,silverline analytics,silverlineanalytics.com,Website,2025-12-08 23:40:50,Qualified
+LEAD-10395,Evelyn Wright,evelyn_wright@apexcloud.com,Apex Cloud LLC,apexcloud.com,Conference,2026-02-17 21:43:17,Contacted
+LEAD-10396,Lucas Anderson,lucasa@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,LinkedIn,2025-07-07 14:54:16,Contacted
+LEAD-10397,Evelyn Green,evelyn_green@oaklineinsights.com,Oakline Insights,oaklineinsights.com,Referral,2025-06-02 10:49:52,Contacted
+LEAD-10398,Aria Smith,asmith@falconridgemedia.com,Falcon Ridge Media,falconridgemedia.com,Website,2025-09-10 15:16:44,Demo
+LEAD-10399,Ava Brown,abrown@novasoftware.com,Nova Software,novasoftware.com,Referral,2025-09-01 16:54:23,New
+LEAD-10400,Mason Thomas,mason.thomas@summitdata.com,Summit Data,summitdata.com,LinkedIn,2026-01-04 09:41:37,Customer
+LEAD-10401,Amelia Young,amelia.young@marinerdatahouse.com,Mariner Data House LLC,marinerdatahouse.com,Referral,2026-04-15 10:02:49,Lost
+LEAD-10402,Liam Scott,LSCOTT@SUMMERSETAIWORKS.COM,Summerset AI Works,summersetaiworks.com,Website,2026-02-21 11:11:16,Contacted
+LEAD-10403,Samuel Baker,samuelb@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Outbound,2025-12-26 13:09:11,Qualified
+LEAD-10404,Liam Moore,lmoore@silverlineworks.com,silverline works,silverlineworks.com,Outbound,2025-11-10 05:20:15,Customer
+LEAD-10405,Sofia Martin,sofiam@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Webinar,2025-05-22 04:54:34,Qualified
+LEAD-10406,Sofia Brown,SOFIAB@NORTHPEAKSYSTEMS.COM,NorthPeak Systems Inc,northpeaksystems.com,Webinar,2026-03-17 01:43:36,Qualified
+LEAD-10407,Logan Moore,,Pioneer Health Group,pioneerhealthgroup.com,Webinar,2025-04-27 08:24:27,Lost
+LEAD-10408,Samuel Green,sgreen@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Website,2025-08-22 07:38:49,Lost
+LEAD-10409,Evelyn Walker,evelyn_walker@atlasrevenuelabs.com, ATLAS REVENUE LABS ,atlasrevenuelabs.com,LinkedIn,2025-09-01 16:57:03,Qualified
+LEAD-10410,Daniel Walker,DANIELW@BRIGHTPATHTECHNOLOGIES.COM, BrightPath Technologies ,brightpathtechnologies.com,Conference,2026-04-12 14:21:56,Qualified
+LEAD-10411,David Lewis,david_lewis@velocitytechnologies.com, Velocity Tech ,velocitytechnologies.com,Webinar,2025-12-13 01:20:14,New
+LEAD-10412,Henry Johnson,hjohnson@primewavesoftware.com, PrimeWave Software Inc ,primewavesoftware.com,Website,2025-06-11 21:13:42,Lost
+LEAD-10413,Camila Allen,callen@beacontraillogistics.com,Beacon Trail Logistics,beacontraillogistics.com,Conference,2026-01-26 02:22:39,Lost
+LEAD-10414,Aria Jackson,ajackson@skylineanalytics.com,Skyline Analytics,skylineanalytics.com,Outbound,2025-09-04 09:49:08,Qualified
+LEAD-10415,Charlotte Lewis,clewis@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Referral,2026-04-01 15:25:33,Qualified
+LEAD-10416,Amelia Jackson,amelia.jackson@summersetaiworks.com,Summerset AI Works Corp,summersetaiworks.com,Conference,2026-02-14 10:14:24,Contacted
+LEAD-10417,Ethan Walker,ETHAN.WALKER@RIVERBENDCOMMERCE.COM,Riverbend Commerce,riverbendcommerce.com,Website,2025-07-29 01:23:34,Contacted
+LEAD-10418,Elijah Adams,ELIJAH_ADAMS@ALTITUDEGROWTHLABS.COM,Altitude Growth Labs,altitudegrowthlabs.com,Referral,2026-03-14 08:55:33,Demo
+LEAD-10419,Noah Scott,, Vertex Tech ,vertextechnologies.com,Webinar,2025-11-15 10:57:45,New
+LEAD-10420,Benjamin Hall,benjamin.hall@goldenstatemetrics.com,Golden State Metrics Inc,goldenstatemetrics.com,Referral,2025-05-28 05:21:40,Customer
+LEAD-10421,Noah Walker,noah.walker@apexsolutions.com, Apex Solutions ,apexsolutions.com,LinkedIn,2025-08-26 01:10:10,Customer
+LEAD-10422,Evelyn Scott,escott@summitlogic.com, Summit Logic Corp ,summitlogic.com,LinkedIn,2025-12-31 03:30:16,Qualified
+LEAD-10423,Ella Smith,ella_smith@redwooddigital.com,Redwood Digital,redwooddigital.com,Webinar,2026-01-18 03:42:27,Qualified
+LEAD-10424,Michael Baker,mbaker@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Outbound,2025-11-07 04:41:12,New
+LEAD-10425,Daniel Young,daniel.young@falconridgemedia.com, Falcon Ridge Media ,falconridgemedia.com,Referral,2025-12-28 01:48:51,Contacted
+LEAD-10426,Liam Martin,liam_martin@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,LinkedIn,2026-02-08 05:13:10,Lost
+LEAD-10427,Noah Martin,nmartin@altitudegrowthlabs.com,Altitude Growth Labs,altitudegrowthlabs.com,LinkedIn,2025-07-03 00:20:45,Contacted
+LEAD-10428,Avery Green,avery.green@brightpathpartners.com,BrightPath Partners Inc,brightpathpartners.com,Outbound,2026-01-29 06:57:58,Qualified
+LEAD-10429,Aria White,awhite@silverlineworks.com,SilverLine Works,silverlineworks.com,Outbound,2025-06-26 21:16:15,Customer
+LEAD-10430,Samuel Hall,,Everstone Partners,everstonepartners.com,Webinar,2025-06-29 23:12:51,Customer
+LEAD-10431,Chloe Lewis,,Cobalt Retail Partners Corp,cobaltretailpartners.com,LinkedIn,2025-10-30 14:15:31,Contacted
+LEAD-10432,David Walker,david_walker@atlasrevenuelabs.com, Atlas Revenue Labs Inc ,atlasrevenuelabs.com,LinkedIn,2026-02-16 06:20:20,Contacted
+LEAD-10433,Sofia Young,sofia.young@goldenstatemetrics.com, Golden State Metrics ,goldenstatemetrics.com,Webinar,2026-01-06 06:07:28,Demo
+LEAD-10434,Lucas Jackson,ljackson@goldenstatemetrics.com,Golden State Metrics,goldenstatemetrics.com,Conference,2026-04-07 15:27:58,New
+LEAD-10435,Mia Young,mia_young@beacontraillogistics.com,Beacon Trail Logistics,beacontraillogistics.com,Webinar,2026-03-26 09:08:26,New
+LEAD-10436,Mia Taylor,miat@altitudegrowthlabs.com,ALTITUDE GROWTH LABS,altitudegrowthlabs.com,Webinar,2025-10-02 00:07:31,Customer
+LEAD-10437,Camila Green,cgreen@silverlinetechnologies.com,SILVERLINE TECHNOLOGIES,silverlinetechnologies.com,Referral,2025-08-01 10:54:47,New
+LEAD-10438,Camila Hall,,Mariner Data House Inc,marinerdatahouse.com,Website,2025-04-26 10:11:08,New
+LEAD-10439,Emma Jackson,emma.jackson@falconridgemedia.com,Falcon Ridge Media Group,falconridgemedia.com,Conference,2025-10-06 12:22:33,Demo
+LEAD-10440,Alexander Clark,aclark@altitudegrowthlabs.com,altitude growth labs,altitudegrowthlabs.com,Webinar,2025-09-25 18:42:12,Lost
+LEAD-10441,James Johnson,jjohnson@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,LinkedIn,2025-04-29 04:35:01,Contacted
+LEAD-10442,Ella Smith,ella_smith@atlasrevenuelabs.com,Atlas Revenue Labs,atlasrevenuelabs.com,Webinar,2026-03-21 14:19:44,Contacted
+LEAD-10443,Sophia Nelson,sophia.nelson@cloudforgelabs.com,CloudForge Labs,cloudforgelabs.com,Website,2025-10-26 23:42:52,Customer
+LEAD-10444,Mason Martin,mason.martin@brightpathtechnologies.com,BrightPath Technologies Co,brightpathtechnologies.com,Webinar,2025-06-09 12:56:08,Lost
+LEAD-10445,James King,jamesk@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Outbound,2026-01-01 16:33:03,New
+LEAD-10446,Luna Martin,lunam@blueriverops.com,BlueRiver Ops,blueriverops.com,Website,2025-08-21 10:26:02,Customer
+LEAD-10447,Emma Wright,emmaw@beacontraillogistics.com,beacon trail logistics,beacontraillogistics.com,Outbound,2025-08-23 10:13:26,Lost
+LEAD-10448,Lucas White,lwhite@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Website,2025-08-06 22:20:25,Demo
+LEAD-10449,Samuel Green,,Cobalt Retail Partners,cobaltretailpartners.com,Webinar,2025-05-13 03:31:53,Contacted
+LEAD-10450,Harper Allen,hallen@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,LinkedIn,2025-08-10 09:24:07,Lost
+LEAD-10451,Evelyn Adams,evelyna@beacontraillogistics.com,Beacon Trail Logistics,beacontraillogistics.com,Webinar,2025-10-27 02:15:38,New
+LEAD-10452,Isabella Anderson,isabella.anderson@cedarpointlogic.com,CedarPoint Logic LLC,cedarpointlogic.com,LinkedIn,2025-10-23 18:25:12,Customer
+LEAD-10453,Harper Smith,hsmith@apexcloud.com,Apex Cloud LLC,apexcloud.com,Webinar,2026-02-25 14:32:46,Demo
+LEAD-10454,Mia Hall,mia_hall@goldenstatemetrics.com,Golden State Metrics Corp,goldenstatemetrics.com,Outbound,2025-08-07 00:52:41,Qualified
+LEAD-10455,Sophia Wright,SOPHIAW@SUMMITLABS.COM,Summit Labs Group,summitlabs.com,Conference,2025-10-29 11:19:03,Lost
+LEAD-10456,Olivia Young,olivia.young@summersetaiworks.com,SUMMERSET AI WORKS,summersetaiworks.com,LinkedIn,2025-06-09 12:26:36,Customer
+LEAD-10457,Liam Anderson,LIAMA@GOLDENSTATEMETRICS.COM,Golden State Metrics,goldenstatemetrics.com,Website,2025-07-28 04:14:50,New
+LEAD-10458,Charlotte Smith,charlottes@summersetaiworks.com,Summerset AI Works,summersetaiworks.com,Referral,2026-01-14 21:33:11,Lost
+LEAD-10459,Sophia Baker,sbaker@deltaharborsystems.com,delta harbor systems,deltaharborsystems.com,Website,2025-11-22 06:32:18,New
+LEAD-10460,Chloe Jackson,chloej@everstonedynamics.com,Everstone Dynamics LLC,everstonedynamics.com,LinkedIn,2025-11-27 15:06:13,New
+LEAD-10461,Amelia Walker,amelia_walker@altitudegrowthlabs.com, ALTITUDE GROWTH LABS CO ,altitudegrowthlabs.com,LinkedIn,2026-04-10 20:21:33,Lost
+LEAD-10462,Alexander Jackson,alexander_jackson@cedarpointlogic.com, CedarPoint Logic ,cedarpointlogic.com,Outbound,2025-05-29 20:04:50,Customer
+LEAD-10463,Sofia Adams,sofia.adams@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,Conference,2026-03-31 06:36:39,Qualified
+LEAD-10464,David Allen,dallen@riverbendcommerce.com,Riverbend Commerce,riverbendcommerce.com,Webinar,2025-12-15 03:06:04,New
+LEAD-10465,Camila Adams,camila_adams@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,LinkedIn,2025-09-27 14:34:13,Lost
+LEAD-10466,Ethan Brown,ETHAN.BROWN@OAKLINEINSIGHTS.COM,Oakline Insights,oaklineinsights.com,Conference,2026-04-19 20:33:43,Customer
+LEAD-10467,James Allen,james.allen@goldenstatemetrics.com,Golden State Metrics,goldenstatemetrics.com,Webinar,2026-01-04 12:10:02,Lost
+LEAD-10468,Liam Scott,lscott@blueriversoftware.com,BlueRiver Software Co,blueriversoftware.com,Webinar,2025-07-28 17:33:31,Demo
+LEAD-10469,Elijah White,elijah_white@vertextechnologies.com,Vertex Technologies,vertextechnologies.com,Outbound,2025-05-15 01:29:11,Customer
+LEAD-10470,Sofia Johnson,,Altitude Growth Labs,altitudegrowthlabs.com,Conference,2026-04-06 16:17:52,Contacted
+LEAD-10471,Lucas Walker,lucasw@cloudforgesoftware.com,cloudforge software,cloudforgesoftware.com,Outbound,2025-06-24 13:58:59,New
+LEAD-10472,James Clark,jclark@falconridgemedia.com,Falcon Ridge Media Corp,falconridgemedia.com,Webinar,2025-08-03 23:00:36,Contacted
+LEAD-10473,Elijah Walker,ewalker@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Website,2026-02-24 14:11:54,Customer
+LEAD-10474,Noah Anderson,noah.anderson@northpeaksystems.com,NorthPeak Systems,northpeaksystems.com,Referral,2025-12-18 14:08:59,New
+LEAD-10475,Lucas Nelson,lucas.nelson@deltaharborsystems.com,Delta Harbor Systems Corp,deltaharborsystems.com,Referral,2025-07-05 00:06:01,Contacted
+LEAD-10476,Lucas Martin,lmartin@novaanalytics.com,Nova Analytics Inc,novaanalytics.com,Outbound,2025-10-25 20:00:05,New
+LEAD-10477,Emma Young,emmay@redwoodsystems.com, Redwood Systems Inc ,redwoodsystems.com,LinkedIn,2026-04-10 13:14:37,Contacted
+LEAD-10478,Sophia Walker,sophia.walker@cloudforgesoftware.com,CloudForge Software,cloudforgesoftware.com,Conference,2025-09-14 01:04:09,Contacted
+LEAD-10479,Mason Green,mgreen@clearbridgeanalytics.com,ClearBridge Analytics LLC,clearbridgeanalytics.com,LinkedIn,2026-01-29 10:20:10,Qualified
+LEAD-10480,Samuel Moore,smoore@pioneerhealthgroup.com,Pioneer Health Group,pioneerhealthgroup.com,Webinar,2026-01-26 07:32:23,New
+LEAD-10481,Elijah Walker,elijah.walker@velocitysoftware.com,Velocity Software,velocitysoftware.com,Outbound,2025-10-31 23:33:13,Qualified
+LEAD-10482,Olivia Thomas,olivia_thomas@apexcloud.com,Apex Cloud Group,apexcloud.com,Webinar,2026-01-27 13:51:45,Qualified
+LEAD-10483,Chloe White,CHLOE.WHITE@RIVERBENDCOMMERCE.COM,riverbend commerce inc,riverbendcommerce.com,Website,2025-12-28 05:18:08,Customer
+LEAD-10484,Mason Moore,masonm@falconridgemedia.com, Falcon Ridge Media ,falconridgemedia.com,Webinar,2026-03-05 14:31:25,Demo
+LEAD-10485,Ava Clark,ava.clark@ironwoodops.com,Ironwood Ops,ironwoodops.com,LinkedIn,2025-08-05 02:54:54,New
+LEAD-10486,Benjamin Wright,bwright@beacontraillogistics.com,Beacon Trail Logistics Corp,beacontraillogistics.com,Outbound,2026-01-31 00:49:27,New
+LEAD-10487,Harper Green,harper_green@skylinesystems.com,skyline systems corp,skylinesystems.com,Webinar,2026-02-08 04:13:29,Customer
+LEAD-10488,Ava Scott,ava.scott@greenfieldsolutions.com,GREENFIELD SOLUTIONS,greenfieldsolutions.com,Conference,2026-02-02 14:49:15,New
+LEAD-10489,Alexander Adams,alexander_adams@cedarpointsoftware.com,CedarPoint Software,cedarpointsoftware.com,Website,2025-06-01 15:53:10,Qualified
+LEAD-10490,Isabella Taylor,,Beacon Trail Logistics,beacontraillogistics.com,Webinar,2026-03-08 06:29:19,New
+LEAD-10491,Elijah Allen,elijaha@blueriverops.com,BlueRiver Ops Inc,blueriverops.com,Webinar,2025-10-04 21:08:40,Contacted
+LEAD-10492,Lucas Baker,lucasb@marinerdatahouse.com,Mariner Data House,marinerdatahouse.com,Referral,2026-02-18 19:03:02,Customer
+LEAD-10493,Lucas Harris,lucas_harris@brightpathsystems.com, brightpath systems ,brightpathsystems.com,LinkedIn,2025-08-24 17:49:00,Customer
+LEAD-10494,Henry Walker,henryw@beacontraillogistics.com,Beacon Trail Logistics,beacontraillogistics.com,Referral,2025-09-19 02:33:50,Demo
+LEAD-10495,Mia Wright,mwright@summersetaiworks.com,summerset ai works inc,summersetaiworks.com,LinkedIn,2026-03-18 08:30:55,Demo
+LEAD-10496,James White,james_white@summersetaiworks.com,Summerset AI Works LLC,summersetaiworks.com,Outbound,2025-09-14 01:55:34,Lost
+LEAD-10497,Emma Adams,, ClearBridge Analytics ,clearbridgeanalytics.com,Referral,2025-10-22 04:06:09,New
+LEAD-10498,James Nelson,jamesn@riverbendcommerce.com,Riverbend Commerce Inc,riverbendcommerce.com,Website,2025-09-23 16:12:25,Qualified
+LEAD-10499,Luna Baker,lunab@cobaltretailpartners.com, Cobalt Retail Partners ,cobaltretailpartners.com,Referral,2026-02-05 08:05:45,Qualified
+LEAD-DUP-108,Isabella Brown,isabella_brown@oaklineinsights.com, Oakline Insights ,oaklineinsights.com,Website,2025-08-02 23:40:27,Contacted
+LEAD-DUP-205,Ava Green,ava.green@atlasrevenuelabs.com,Atlas Revenue Labs Inc,atlasrevenuelabs.com,Webinar,2025-11-01 23:04:20,Contacted
+LEAD-DUP-316,Sofia Allen,sofiaa@beacontraillogistics.com,beacon trail logistics corp LLC,beacontraillogistics.com,Website,2025-11-02 04:31:54,Lost
+LEAD-DUP-28,Aria Green,ariag@everstoneanalytics.com,Everstone Analytics Corp Co,everstoneanalytics.com,Referral,2025-10-25 03:46:22,New
+LEAD-DUP-112,Michael King,michael.king@brightpathlogic.com, BrightPath Logic Inc ,brightpathlogic.com,Website,2026-04-16 22:32:00,Customer
+LEAD-DUP-200,Michael Hall,michael.hall@skylinepartners.com,skyline partners corp,skylinepartners.com,Conference,2025-11-11 00:57:45,Contacted
+LEAD-DUP-94,Olivia Moore,olivia.moore@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Outbound,2025-11-01 09:48:40,Customer
+LEAD-DUP-421,Noah Walker,noah.walker@apexsolutions.com,Apex Solutions,apexsolutions.com,LinkedIn,2025-08-26 01:10:10,Customer
+LEAD-DUP-381,Noah Jackson,njackson@marinerdatahouse.com,Mariner Data House Group LLC,marinerdatahouse.com,LinkedIn,2025-11-18 14:50:29,Demo
+LEAD-DUP-499,Luna Baker,lunab@cobaltretailpartners.com,Cobalt Retail Partners,cobaltretailpartners.com,Referral,2026-02-05 08:05:45,Qualified
+LEAD-DUP-286,Liam Smith,liam.smith@atlasrevenuelabs.com,atlas revenue labs,atlasrevenuelabs.com,Webinar,2026-01-31 22:19:14,Customer
+LEAD-DUP-309,Noah Allen,noah.allen@falconridgemedia.com,FALCON RIDGE MEDIA INC,falconridgemedia.com,Website,2026-04-15 01:30:49,Contacted
+LEAD-DUP-430,Samuel Hall,,Everstone Partners,everstonepartners.com,Webinar,2025-06-29 23:12:51,Customer
+LEAD-DUP-39,Lucas White,lwhite@brightpathtechnologies.com, BrightPath Technologies ,brightpathtechnologies.com,Referral,2025-07-30 18:18:35,Customer
+LEAD-DUP-418,Elijah Adams,elijah_adams@altitudegrowthlabs.com,Altitude Growth Labs Co,altitudegrowthlabs.com,Referral,2026-03-14 08:55:33,Demo
+LEAD-DUP-354,Henry White,henry_white@marinerdatahouse.com,Mariner Data House LLC,marinerdatahouse.com,Webinar,2025-06-18 02:30:47,Contacted
+LEAD-DUP-239,Ava Taylor,ataylor@apexanalytics.com,APEX ANALYTICS,apexanalytics.com,LinkedIn,2025-07-30 12:55:16,Customer
+LEAD-DUP-244,Evelyn Harris,evelynh@atlasrevenuelabs.com,atlas revenue labs,atlasrevenuelabs.com,Outbound,2025-09-20 06:09:43,Lost
+LEAD-DUP-160,Olivia White,olivia_white@riverbendcommerce.com,RIVERBEND COMMERCE,riverbendcommerce.com,LinkedIn,2025-12-18 02:18:21,New
+LEAD-DUP-334,Camila Harris,camilah@oaklineinsights.com,oakline insights llc,oaklineinsights.com,Webinar,2025-07-03 02:09:19,Customer
